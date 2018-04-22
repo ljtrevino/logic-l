@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/lrylander/pen/NRYpRj.
+Logic-L is a website created to host AP study guides that I created
 
  
